@@ -41,4 +41,4 @@ Focusing on a transition into **Cybersecurity** with a "bottom-up" technical fou
 
 ---
 
-*"The best way to learn is to document the journey."*
+Note: Repositories are currently set to private during active development.
