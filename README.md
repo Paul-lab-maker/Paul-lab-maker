@@ -6,11 +6,12 @@ Focusing on a transition into **Cybersecurity** with a "bottom-up" technical fou
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **Cybersecurity Learning** | Study notes for CompTIA & OSCP path. | 🏗️ In Progress |
+| **Cybersecurity Learning** | Study notes for CompTIA & OSCP path. | ⚙️ In Progress |
 | **Home Lab Automation** | Scripts for managing my HP OMEN & Acer Swift 3 lab. | ⚙️ Active |
-| **Bottom-Up CS** | Exploring hardware, Assembly, and system logic. | 📚 Learning |
-| **GeoGuessr & OSINT** | Developing pattern recognition and investigative skills. | 🌍 Hobby/Skill |
-| **English Writing Log** | Professional communication and technical documentation. | ✍️ Continuous |
+| **Bottom-Up CS** | Exploring hardware, Assembly, and system logic. | ⚙️ Learning |
+| **GeoGuessr & OSINT** | Developing pattern recognition and investigative skills. | ⚙️ Hobby/Skill |
+| **English Writing Log** | Professional communication and technical documentation. | ⚙️ Continuous |
+| **Learning Tracker** | Daily check on self-discipline. | ⚙️ Daily |
 
 ## 🛠️ Tech Stack & Tools
 * **Hardware:** HP OMEN (Attacker), Acer Swift 3 (Victim)
@@ -39,6 +40,8 @@ Focusing on a transition into **Cybersecurity** with a "bottom-up" technical fou
 ### 5. [Communications & Language](https://github.com/Paul-lab-maker/English-Writing-Log)
 * **Goal:** Technical English and professional documentation
 
+### 6. [Tracking Progress](https://github.com/Paul-lab-maker/Learning-Tracker)
+* **Goal:** Maintaining discipline and consistency, even when offline.
 ---
 
 Note: Repositories are currently set to private during active development.
