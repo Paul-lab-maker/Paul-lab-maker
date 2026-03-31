@@ -31,7 +31,7 @@ Focusing on a transition into **Cybersecurity** with a "bottom-up" technical fou
 
 
 ### 3. [Computer Science Fundamentals](https://github.com/Paul-lab-maker/Bottom-Up-CS)
-* **Goal:** Understanding the "Bottom-Up" logic (Assembly, Hardware)
+* **Goal:** Building a foundation in computer science.
 * **Current Focus:** *OverTheWire* & *SadServers*
 
 ### 4. [Intelligence & OSINT](https://github.com/Paul-lab-maker/GeoGuessr-OSINT-Insights)
